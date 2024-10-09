@@ -11,10 +11,7 @@ Sou uma desenvolvedora front-end apaixonada, com foco em criar experiências web
 
 ## 💼 Projetos em Destaque
 
-- [**Nome do Projeto 1**](link-do-projeto-1): Descrição breve do que o projeto faz e as tecnologias usadas.
-- [**Nome do Projeto 2**](link-do-projeto-2): Descrição breve do que o projeto faz e as tecnologias usadas.
-- [**Nome do Projeto 3**](link-do-projeto-3): Descrição breve do que o projeto faz e as tecnologias usadas.
-
+- [To-Do List ](link-do-projeto-1): 
 ## 🌱 Estou Aprendendo
 
 Atualmente, estou aprofundando meus conhecimentos em:
