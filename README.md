@@ -11,11 +11,13 @@ Sou uma desenvolvedora front-end apaixonada, com foco em criar experiências web
 
 ## 💼 Projetos em Destaque
 
-- [To-Do List ](link-do-projeto-1): 
-## 🌱 Estou Aprendendo
+- Ainda desenvolvendo o primeiro projeto
 
 Atualmente, estou aprofundando meus conhecimentos em:
-- TypeScript
+- HTML
+- CSS
+- Java Script
+- Angular
   
 
 ## 📫 Vamos nos conectar!
@@ -24,7 +26,7 @@ Sinta-se à vontade para entrar em contato:
 
 - [LinkedIn](https://www.linkedin.com/in/rafaela-h-ba3a9b12a/)
 - [Email](hidalgorafaela@hotmail.com)
-- [Instagram](@4b3nz4)
+- [Instagram](@hidalgo_abenza)
 
 ---
 
